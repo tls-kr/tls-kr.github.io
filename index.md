@@ -5,7 +5,7 @@
 layout: home
 title: This is the title of this page
 ---
-
+![hxwd](images/hxwd.png)
 # Manual for HXWD, the TLS on the Web
 
 This pages contains information about how to use and contribute to the project. 
