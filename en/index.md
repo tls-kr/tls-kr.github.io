@@ -15,11 +15,11 @@ There are three parts, which in its totality make up the contribution of this pr
 **How to contribute:** Contributions to this manual are welcome.  If you would like to contribute, all you will need is a GitHub account to get you started.  Details are explained in [How to contribute](app/how-to-contribute) 
 
 ## User documentation
-In this part, the interface elements and basic operations on the web pages are explained. New users are advised to start here
+In this part, the interface elements and basic operations on the web pages are explained. New users are advised to start [here](manual/start)
 
 ## Data formats
 
-The interface offers views on the data stored in the database.  In this section, the format of the many different types of data that lie below this surface are documented.
+The interface offers views on the data stored in the database.  In this section, the format of the many different types of data that lie below this surface are documented. We talk about the data formats in more detail [here](data/format) 
 
 ## [Web Application](app/index)
 
