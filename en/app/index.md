@@ -1,5 +1,5 @@
 ---
-title: Web Application
+title: Technical Documentation of the Application
 ---
-# Documentation of the Application
+# Technical Documentation of the Application
 

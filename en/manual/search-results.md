@@ -1,3 +1,4 @@
+{}
 # The results of a full text search
 
 ![search results](/images/search-results.png)
